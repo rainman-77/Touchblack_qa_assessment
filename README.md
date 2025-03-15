@@ -1,6 +1,6 @@
 # Touchblack QA Assessment
 
-This repository contains automated test scripts for the demo site [Demoblaze](https://www.demoblaze.com/index.html) written in Python using **Selenium** and **pytest**. Below are the steps to verify and execute the scripts.
+This repository contains automated test scripts for the demo site [Demoblaze](https://www.demoblaze.com/index.html) written in Python using **Selenium** and **pytest**.
 
 ## Dependencies
 
