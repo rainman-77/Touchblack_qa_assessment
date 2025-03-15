@@ -4,6 +4,7 @@ pytest
 
 # Pytest plugins
 pytest-order
+openpyxl
 
 # Reporting tools
 allure-pytest
