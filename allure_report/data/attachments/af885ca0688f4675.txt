@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:55 Running test in 'non_headless-Standalone' mode on 'chrome' browser in local environment
+[32mINFO    [0m root:test_login.py:42 TestLogin--> test_login_without_cred started
+[32mINFO    [0m root:test_login.py:49 TestLogin--> test_login_without_cred completed

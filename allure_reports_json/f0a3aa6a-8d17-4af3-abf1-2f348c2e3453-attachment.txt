@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:55 Running test in 'non_headless-Standalone' mode on 'chrome' browser in local environment
+[32mINFO    [0m root:test_register.py:10 TestRegister--> test_register_with_all_fields started
+[32mINFO    [0m root:test_register.py:17 TestRegister--> test_register_with_all_fields completed

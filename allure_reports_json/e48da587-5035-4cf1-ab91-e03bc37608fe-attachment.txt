@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:55 Running test in 'non_headless-Standalone' mode on 'chrome' browser in local environment
+[32mINFO    [0m root:test_cart.py:31 TestCart--> test_total_product_cost_added_to_cart started
+[32mINFO    [0m root:test_cart.py:46 TestCart--> test_total_product_cost_added_to_cart completed

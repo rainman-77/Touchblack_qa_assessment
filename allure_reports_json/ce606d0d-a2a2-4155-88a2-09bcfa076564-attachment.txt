@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:55 Running test in 'non_headless-Standalone' mode on 'chrome' browser in local environment
+[32mINFO    [0m root:test_login.py:12 TestLogin--> test_login_with_valid_cred started for test_ash_2@gmail.com
+[32mINFO    [0m root:test_login.py:19 TestLogin--> test_login_with_valid_cred completed for test_ash_2@gmail.com

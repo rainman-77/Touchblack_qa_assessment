@@ -1,0 +1,9 @@
+# Core libraries
+selenium
+pytest
+
+# Pytest plugins
+pytest-order
+
+# Reporting tools
+allure-pytest

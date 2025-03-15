@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:55 Running test in 'non_headless-Standalone' mode on 'chrome' browser in local environment
+[32mINFO    [0m root:test_login.py:32 TestLogin--> test_login_valid_username_and_invalid_password started
+[32mINFO    [0m root:test_login.py:39 TestLogin--> test_login_valid_username_and_invalid_password completed
